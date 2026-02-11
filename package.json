@@ -1,0 +1,13 @@
+{
+  "name": "flash-loan-arbitrage-starter",
+  "version": "1.0.0",
+  "description": "Aave V3 Flash Loan template",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
